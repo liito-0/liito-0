@@ -2,8 +2,6 @@
 
 # Miguel Monteiro
 
-**`Estudante de Ciência da Computação`**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monteiro-miguel)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguellmonteiro.5@gmail.com)
 

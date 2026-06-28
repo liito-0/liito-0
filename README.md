@@ -15,7 +15,6 @@
 nome: Miguel Monteiro
 cargo: Graduando em Ciência da Computação
 foco: [ "Desenvolvimento Frontend", "Web" ]
-atualmente_aprendendo: [ "Go", "MySQL" ]
 ```
 
 ---

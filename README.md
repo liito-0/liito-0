@@ -13,7 +13,7 @@
 
 ```yaml
 nome: Miguel Monteiro
-cargo: Graduando em Ciência da Computação
+cargo: Graduando em Ciência da Computação (UFRPE)
 foco: [ "Computação em nuvem e sistemas distribuídos", "Desenvolvimento de software" ]
 ```
 

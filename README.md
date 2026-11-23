@@ -14,7 +14,7 @@
 ```yaml
 nome: Miguel Monteiro
 cargo: Graduando em Ciência da Computação
-foco: [ "Desenvolvimento Frontend", "Web" ]
+foco: [ "Desenvolvimento de software, sistemas e integrações" ]
 ```
 
 ---
@@ -26,7 +26,6 @@ foco: [ "Desenvolvimento Frontend", "Web" ]
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
 **Web & Frameworks**

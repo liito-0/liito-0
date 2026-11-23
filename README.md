@@ -14,7 +14,7 @@
 ```yaml
 nome: Miguel Monteiro
 cargo: Graduando em Ciência da Computação
-foco: [ "Desenvolvimento de software, sistemas e integrações" ]
+foco: [ "Computação em nuvem e sistemas distribuídos", "Desenvolvimento de software" ]
 ```
 
 ---
@@ -33,6 +33,7 @@ foco: [ "Desenvolvimento de software, sistemas e integrações" ]
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 
 **Database & Ferramentas**
 
